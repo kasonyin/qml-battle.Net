@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>windows/LoginWindow.qml</file>
+        <file>common/DragArea.qml</file>
+        <file>controls/BN_TextField.qml</file>
+        <file>common/AppTr.qml</file>
+        <file>common/qmldir</file>
+        <file>controls/BN_Button_Danger.qml</file>
+        <file>controls/BN_Button_Accent.qml</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>image/blizzard.png</file>
+    </qresource>
+</RCC>
