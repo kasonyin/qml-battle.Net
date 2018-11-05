@@ -12,7 +12,18 @@ import QtQuick 2.11
 QtObject {
     id: appTr
 
+    readonly property string tr_中国: qsTr("中国")
+    readonly property string tr_使用上一次的状态: qsTr("使用上一次的状态")
+    readonly property string tr_隐身: qsTr("隐身")
+    readonly property string tr_设置: qsTr("设置")
+    readonly property string tr_离线模式: qsTr("离线模式")
+
     readonly property string tr_电子邮箱: qsTr("电子邮箱")
     readonly property string tr_密码: qsTr("密码")
     readonly property string tr_登录: qsTr("登录")
+    readonly property string tr_或使用以下账户登录: qsTr("或使用以下账户登录")
+    readonly property string tr_使用网易通行证登录: qsTr("使用网易通行证登录")
+    readonly property string tr_免费创建暴雪游戏通行证: qsTr("免费创建暴雪游戏通行证")
+    readonly property string tr_无法登录: qsTr("无法登录？")
+    readonly property string tr_安全令重新同步: qsTr("安全令重新同步？")
 }

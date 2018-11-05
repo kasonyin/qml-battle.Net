@@ -1,1 +1,4 @@
 ﻿singleton AppTr 1.0 AppTr.qml
+singleton FontAwesome 1.0 FontAwesome.qml
+DragArea 1.0 DragArea.qml
+WindowControlBar 1.0 WindowControlBar.qml
